@@ -1,2 +1,3 @@
-# -quipe7
+# Equipe7
 projet_tas_de_sable
+
